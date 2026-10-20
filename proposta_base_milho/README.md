@@ -34,6 +34,16 @@ Títulos alternativos:
 
 São esquemas, não dados. Gerados por `graficos_conceituais.py`.
 
+## Gráficos com dados já feitos (em `figuras/`, gerados por `graficos_dados.py`)
+
+| Figura | O que mostra |
+|---|---|
+| `4_producao_milho_mt.png` | Produção de milho em MT por safra (Conab): de 15 mi t em 2015/16 para 59 mi t em 2025/26, de 23% para 41% do milho do Brasil. O excedente que precisa ser escoado (ou absorvido por usinas) cresceu muito. |
+| `5_mapa_milho_municipios.png` | Produção por município (IBGE/PAM), 2015 x 2025. A expansão se concentra no Médio-Norte (eixo da BR-163: Sorriso, Lucas do Rio Verde, Nova Mutum, Sinop). Base para separar regiões com e sem usina. |
+
+Dados em `dados/`, extraídos do projeto público
+[bruno-portfolio/dbt-agrobr](https://github.com/bruno-portfolio/dbt-agrobr) (Conab e IBGE, dados abertos).
+
 ## Gráficos com dados (a construir)
 
 1. **Quanto do milho de MT as usinas absorvem**: produção de milho em MT (Conab)
